@@ -1,44 +1,39 @@
-# The Youth Health Care Service
-### INFO 2302 Web Technologies
+       Name:                             Contribution:                                             Creat:
+1.Mohammad Raihanul Islam 1825891          Modules&support Pages using javascript,API,JQurey    Header,footer,navigation,main content,adding image,
 
-> MD MIJANUR RAHMAN [1631849]
+javascript
 
-### Technologies I've Used
-
-In our web technoloy project we are development our website with the help of many mordern technologies. Like as:
-* [HTML5](#) 
-* [CSS3](#) 
-* [JavaScript](#) 
-* [jQuery]
+https://www.w3schools.com/js/default.asp
+https://codepen.io/
+https://www.shutterstock.com/ ----- images 
 
 
-## CSS Plugins
 
-  - Bootstrap CSS
-  - Bootstrap-responsive CSS
-  - PrettyPhoto CSS
-  - Prettify CSS
-  - Flexslider CSS
-  - Refineslide CSS
-  - Font-awesome CSS
-  - Animate CSS
 
-In my part I've implement my website with the help of these above css pulgins. All the plugins are in my assets folder.
 
-## jQuery Plugins
 
-  - jQuery JS
-  - Modernizr JS
-  - prettify JS
-  - prettyPhoto JS
-  - flexslider JS
-  - refineslide JS
 
-In my part I've implement my website with the help of these above javaScript jquery pulgins. All the plugins are in my assets folder. Besides, I've write custom javaScript code for some user define functions.
 
-## jQuery Sources
 
-  - pexels (https://www.pexels.com/) 
-  
-All slider image taken from this website. This pixels websites for the free stock images.
-  
+
+2.MEIMOU EL MOUSTAPHA   1622567                   Contribution:
+                                    Home&demo& formvali pages with html css &jqueryui    Create:
+                                                                                        Header,footer,navigation,main content,logo,adding images,form validation 
+                                                                                         images sources is:
+                                                                                         pixabay.com/photo &stock photo free
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.RAHMAN MD MIJANUR 1631849                  Contribution :
+                                        feature page ,wirh JQurey                          Create:
+                                                                                           Header,footer,navigation,main content,adding image
+                                                                                                                                                                                     
+                                                                      
+                                                                       
+                              
