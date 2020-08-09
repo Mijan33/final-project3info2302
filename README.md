@@ -3,9 +3,9 @@
 
 javascript
 
-https://www.w3schools.com/js/default.asp
-https://codepen.io/
-https://www.shutterstock.com/ ----- images 
+https://www.w3schools.com  
+https://codepen.io/  
+ https://www.shutterstock.com/ ----- images 
 
 
 
